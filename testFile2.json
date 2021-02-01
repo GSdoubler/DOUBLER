@@ -339,7 +339,35 @@
     "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/SovietRussia.png",
     "pack": "Funny"
   }
-    
+    {
+    "name": "BikiniBoy",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/BikiniBoy1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/BikiniBoy.png",
+    "pack": "Funny"
+  },
+     {
+    "name": "Endless",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Endless1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Endless.png",
+    "pack": "Funny"
+  },
+     {
+    "name": "OhMy",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/OhMy1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/OhMy.png",
+    "pack": "Funny"
+  }, {
+    "name": "Pepig",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Peppa1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Peppa.png",
+    "pack": "Funny"
+  },
+    {
+    "name": "Griff",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/PeterGriffin1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/PeterGriffin.png",
+    "pack": "Funny"
+  }
   ],
   "packs":[
      {
