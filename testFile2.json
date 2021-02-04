@@ -219,6 +219,78 @@
     "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Mantle.png",
     "pack": "For Boys"
   },
+    {
+    "name": "Mike",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Mike1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Mike.png",
+    "pack": "For Boys"
+  },
+     {
+    "name": "Ninja",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Ninja1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Ninja.png",
+    "pack": "For Boys"
+  },
+     {
+    "name": "Office",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Office1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Office.png",
+    "pack": "For Boys"
+  },
+     {
+    "name": "Ricardo",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Ricardo1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Ricardo.png",
+    "pack": "For Boys"
+  },
+     {
+    "name": "Santa",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Santa1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Santa.png",
+    "pack": "For Boys"
+  },
+     {
+    "name": "Sten",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Sten1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Sten.png",
+    "pack": "For Boys"
+  },
+     {
+    "name": "Orange",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/SubZero1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/SubZero.png",
+    "pack": "For Boys"
+  },
+     {
+    "name": "Sweater",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Sweater1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Sweater.png",
+    "pack": "For Boys"
+  },
+     {
+    "name": "Tom",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Tom1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Tom.png",
+    "pack": "For Boys"
+  },
+     {
+    "name": "Winter",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Winter1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Winter.png",
+    "pack": "For Boys"
+  },
+     {
+    "name": "Zelda",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Zelda1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Zelda.png",
+    "pack": "For Boys"
+  },
+     {
+    "name": "",
+    "urlPreviewSkin": "",
+    "urlSkin": "",
+    "pack": "For Boys"
+  },
      {
     "name": "Colored",
     "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/Colored1.png",
@@ -243,6 +315,44 @@
     "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Marci.png",
     "pack": "For Girls"
   },
+    {
+    "name": "Bear",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/Bear1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/Bear.png",
+    "pack": "Animals"
+  },
+    {
+    "name": "Brutal",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/Brutal1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/Brutal.png",
+    "pack": "Animals"
+  },
+    {
+    "name": "Garfilde",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/Garfilde1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/Garfilde.png",
+    "pack": "Animals"
+  },
+    {
+    "name": "PikaPika",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/PikaPika1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/PikaPika.png",
+    "pack": "Animals"
+  },
+    {
+    "name": "PinkPantera",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/PinkPantera1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/PinkPantera.png",
+    "pack": "Animals"
+  },
+    {
+    "name": "Turtle",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/Turtle1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/Turtle.png",
+    "pack": "Animals"
+  },
+ 
+    
      {
     "name": "BananaMonkey",
     "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/BananaMonkey1.png",
