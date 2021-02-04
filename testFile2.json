@@ -449,6 +449,24 @@
     "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/YellowBear.png",
     "pack": "Animals"
   },
+    {
+    "name": "Gradientus",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Gradientus1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Gradientus.png",
+    "pack": "Funny"
+  },
+    {
+    "name": "RicardoMilas",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/RicardoMilas1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/RicardoMilas.png",
+    "pack": "Funny"
+  },
+    {
+    "name": "TVZombie",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/TVZombie1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/TVZombie.png",
+    "pack": "Funny"
+  },
      {
     "name": "HotShrek",
     "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/HotShrek1.png",
