@@ -345,6 +345,12 @@
     "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/Marci.png",
     "pack": "For Girls"
   },
+     {
+    "name": "Pug",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/Pug1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/Pug.png",
+    "pack": "Animals"
+  },
     {
     "name": "Bear",
     "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/Bear1.png",
