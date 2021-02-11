@@ -768,6 +768,48 @@
     "pack": "Funny"
   },
     {
+    "name": "Amigo",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Amigo1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Amigo.png",
+    "pack": "Funny"
+  },
+    {
+    "name": "Cool",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Cool1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Cool.png",
+    "pack": "Funny"
+  },
+    {
+    "name": "Creep",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Creep1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Creep.png",
+    "pack": "Funny"
+  },
+    {
+    "name": "Fred",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Fred1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Fred.png",
+    "pack": "Funny"
+  },
+    {
+    "name": "Pizza",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Pizza1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Pizza.png",
+    "pack": "Funny"
+  },
+    {
+    "name": "Potato",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Potato1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Potato.png",
+    "pack": "Funny"
+  },
+    {
+    "name": "TVBody",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/TVBody1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/TVBody.png",
+    "pack": "Funny"
+  },
+    {
     "name": "Griff",
     "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/PeterGriffin1.png",
     "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/PeterGriffin.png",
