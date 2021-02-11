@@ -820,6 +820,24 @@
     "pack": "Animals"
   },
     {
+    "name": "MrFrog",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/MrFrog1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/MrFrog.png",
+    "pack": "Funny"
+  },
+    {
+    "name": "Rembo",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Rembo1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Rembo.png",
+    "pack": "Funny"
+  },
+    {
+    "name": "Smily",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Smily1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Smily.png",
+    "pack": "Funny"
+  },
+    {
     "name": "Gradientus",
     "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Gradientus1.png",
     "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Gradientus.png",
