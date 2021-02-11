@@ -609,6 +609,48 @@
     "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/Mila.png",
     "pack": "For Girls"
   },
+    {
+    "name": "Bauzer",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/Bauzer1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/Bauzer.png",
+    "pack": "Animals"
+  },
+    {
+    "name": "Dragon",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/Dragon1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/Dragon.png",
+    "pack": "Animals"
+  },
+    {
+    "name": "Fox",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/Fox1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/Fox.png",
+    "pack": "Animals"
+  },
+    {
+    "name": "MaroDog",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/MaroDog1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/MaroDog.png",
+    "pack": "Animals"
+  },
+    {
+    "name": "NudePig",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/NudePig1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/NudePig.png",
+    "pack": "Animals"
+  },
+    {
+    "name": "Parrot",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/Parrot1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/Parrot.png",
+    "pack": "Animals"
+  },
+    {
+    "name": "WarChik",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/WarChik1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/WarChik.png",
+    "pack": "Animals"
+  },
      {
     "name": "Pug",
     "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/Pug1.png",
@@ -651,8 +693,6 @@
     "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/Turtle.png",
     "pack": "Animals"
   },
- 
-    
      {
     "name": "BananaMonkey",
     "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/BananaMonkey1.png",
