@@ -676,6 +676,12 @@
     "pack": "For Girls"
   },
     {
+    "name": "Baloo",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/Baloo1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/Baloo.png",
+    "pack": "Animals"
+  },
+    {
     "name": "Bauzer",
     "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/Bauzer1.png",
     "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/Bauzer.png",
