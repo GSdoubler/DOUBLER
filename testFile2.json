@@ -1090,6 +1090,78 @@
     "pack": "For Girls"
   },
     {
+    "name": "BlackDog",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/BlackDog1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/BlackDog.png",
+    "pack": "Animals"
+  },
+    {
+    "name": "CowMac",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/CowMac1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/CowMac.png",
+    "pack": "Animals"
+  },
+    {
+    "name": "CowManager",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/CowManager.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/CowManager.png",
+    "pack": "Animals"
+  },
+    {
+    "name": "Duck",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/Duck1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/Duck.png",
+    "pack": "Animals"
+  },
+    {
+    "name": "FrogRF",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/FrogRF1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/FrogRF.png",
+    "pack": "Animals"
+  },
+    {
+    "name": "GarfKing",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/GarfKing1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/GarfKing.png",
+    "pack": "Animals"
+  },
+    {
+    "name": "JustPanda",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/JustPanda1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/JustPanda.png",
+    "pack": "Animals"
+  },
+    {
+    "name": "Meow",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/Meow1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/Meow.png",
+    "pack": "Animals"
+  },
+    {
+    "name": "Ohana",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/Ohana1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/Ohana.png",
+    "pack": "Animals"
+  },
+    {
+    "name": "Pug",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/Pug1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/Pug.png",
+    "pack": "Animals"
+  },
+    {
+    "name": "WarBear",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/WarBear1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/WarBear.png",
+    "pack": "Animals"
+  },
+    {
+    "name": "WarMonkey",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/WarMonkey1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/WarMonkey.png",
+    "pack": "Animals"
+  },
+    {
     "name": "Baloo",
     "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/Baloo1.png",
     "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Animals/Baloo.png",
